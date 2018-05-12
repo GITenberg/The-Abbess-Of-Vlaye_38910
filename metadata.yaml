@@ -1,0 +1,33 @@
+_repo: The-Abbess-Of-Vlaye_38910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Author Stanley J. Weyman gained acclaim as one of the foremost writers
+  of historical romance, and his trademark strengths are on full display in The Abbess
+  of Vlaye. Set in the late sixteenth century, this engrossing novel combines romance,
+  adventure, and political intrigue, plus lots of exhaustively researched historical
+  detail.
+gutenberg_issued: '2012-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Henry IV, 1589-1610 -- Fiction'
+- !lcc 'PR'
+title: The Abbess Of Vlaye
+url: http://www.gutenberg.org/ebooks/38910
